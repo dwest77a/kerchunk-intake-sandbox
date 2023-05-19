@@ -8,7 +8,6 @@ institution_id
 experiment_id
 member_id
 table_id
-variable_id
 grid_label
 version
 dcpp_init_year
